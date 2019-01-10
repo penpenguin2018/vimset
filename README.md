@@ -1,7 +1,10 @@
-# vimset
-<<<<<<< HEAD
-# vimset
-# vimset
-# vimset
-=======
->>>>>>> 8fd13a96033f221810cbcfdc492875f1ff1bab16
+#vimset
+개인 vim 셋팅입니다. 
+
+셋팅방법
+```
+cd ~
+git clone http://github.com/penpenguin2018/vimset
+cd vimset
+cp -f ./. vimrc ~
+```
